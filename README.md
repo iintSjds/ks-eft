@@ -20,7 +20,8 @@ The pipeline has two stages:
 ## Requirements
 
 - Julia ≥ 1.10
-- Packages: DFTK, Interpolations, SpecialFunctions, Unitful, UnitfulAtomic, JLD2, Plots, PseudoPotentialData
+- Packages: DFTK, Interpolations, SpecialFunctions, Unitful, UnitfulAtomic, JLD2, Plots, PseudoPotentialData, PyPlot
+- Python with `matplotlib` installed (used by PyPlot for figure generation)
 
 Install dependencies:
 ```julia
