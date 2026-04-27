@@ -8,4 +8,5 @@ plotting/fig/
 
 # Julia artifacts
 Manifest.toml
+LocalPreferences.toml
 *.mem

@@ -29,6 +29,13 @@ Pkg.activate(".")
 Pkg.instantiate()  # resolves from Project.toml
 ```
 
+If CUDA artifact download fails (no GPU needed), create `LocalPreferences.toml`:
+```toml
+[CUDA_Runtime_jll]
+local = "true"
+version = "none"
+```
+
 ## Usage
 
 From the repository root:
