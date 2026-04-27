@@ -1,0 +1,10 @@
+# Generated data
+*.jld2
+*.jls
+
+# Generated figures
+fig/
+plotting/fig/
+
+# Julia artifacts
+*.mem
