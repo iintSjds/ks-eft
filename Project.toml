@@ -1,7 +1,3 @@
-name = "EFTPsp"
-uuid = "aaaaaaaa-0000-0000-0000-000000000001"
-authors = []
-version = "0.1.0"
 
 [deps]
 DFTK = "acf6eb54-70d9-11e9-0013-234b7a5f5337"
