@@ -7,4 +7,5 @@ fig/
 plotting/fig/
 
 # Julia artifacts
+Manifest.toml
 *.mem

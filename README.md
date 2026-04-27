@@ -26,7 +26,7 @@ Install dependencies:
 ```julia
 using Pkg
 Pkg.activate(".")
-Pkg.instantiate()
+Pkg.instantiate()  # resolves from Project.toml
 ```
 
 ## Usage
@@ -46,7 +46,7 @@ bash generate_figures.sh
 ## Directory Structure
 
 ```
-├── Project.toml / Manifest.toml    Julia project files
+├── Project.toml                    Julia project (run Pkg.instantiate())
 ├── generate_figures.sh             Reproduce all figures
 ├── lithium/                        Li (Z=3, 1s² core, analytic)
 │   ├── run_ks.jl                   Stage 1: GTH LDA
