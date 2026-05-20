@@ -4,7 +4,7 @@ Companion code for:
 
 > **Kohn–Sham Hamiltonian from Effective Field Theory: Quasiparticle Band Narrowing from Frozen Core Dynamics**
 > Xiansheng Cai, Han Wang, Kun Chen
-> [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+> [arXiv:2604.25199](https://arxiv.org/abs/2604.25199)
 
 ## Overview
 
